@@ -2,4 +2,4 @@
 
 <h3 align="center"> 💕Tua vita sarà piena d'amore💕 </h3>
 
-<img src="https://img.shields.io/github/followers/inuin09?style=social">![](https://img.shields.io/github/followers/AlpoxDev?style=social)
+<img src="https://img.shields.io/github/followers/inuin09?style=social">![](https://img.shields.io/github/followers/inuin09?style=social)
