@@ -2,6 +2,6 @@
 <h3 align="center"> 💕Tua vita sarà piena d'amore💕 </h3>
 
 <h3 align="center"> Hi everyone:) I'm Sujin Shin, a growing developer!? </h3>
-<h3 align="center">  Watch my progress╰(*°▽°*)╯ </h3>
+<h3 align="center">  Watch my progress╰(*°▽°*)╯ </h3>   
 
 <h3 align="center"> ❓Teck Stack❓ </h3>
