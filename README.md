@@ -5,4 +5,4 @@
 <h3 align="center">  Watch my progress╰(*°▽°*)╯ </h3>   
 
 <h3 align="center"> ❓Teck Stack❓ </h3>
-<h3 align="center"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></h3>
+<h3 align="center"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/PYTHON-#3776AB?style=for-the-badge&logo=Python&logoColor=white">
